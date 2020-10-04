@@ -1,0 +1,124 @@
+*{
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+body{
+    background: #e8ffff;
+}
+.container{
+    margin-top: 80px;
+    width: 1300px;
+}
+
+.mainFrame{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px -1px 5px 0px #ccc;
+}
+
+.firstDiv{
+    padding: 25px;
+    background: white;
+}
+
+.firstDiv h1{
+    font-size: 22px;
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+}
+
+.p1{
+    color: hsl(71, 73%, 54%);
+    font-weight: 700;
+}
+
+.p2{
+    color: hsl(218, 22%, 67%);;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.secondDiv{
+    display: flex;
+    color: white;
+}
+
+.first-sub-div{
+    width: 50%;
+    background: hsl(179, 62%, 43%);
+    color: hsl(204, 43%, 93%);
+    padding: 25px;
+}
+
+.first-sub-div h3{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.first-sub-div strong{
+    font-size: 24px;
+    margin-right: 10px;
+    font-weight: 400;
+    color: white;
+}
+
+.first-sub-div span{
+    font-size: 12px;
+}
+
+.first-sub-div p{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.first-sub-div a{
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    background: hsl(71, 73%, 54%);
+    color: white;
+    width: 92%;
+    padding: 12px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.first-sub-div a:hover{
+    background: hsl(218, 22%, 67%);
+}
+
+
+.second-sub-div{
+    width: 50%;
+    background: #4abebd;
+    padding: 25px;
+    color: hsl(204, 43%, 93%);
+}
+
+.second-sub-div h3{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.second-sub-div ul{
+    list-style: none;
+    padding: 0px;
+    color: hsl(204, 43%, 93%);;
+}
+
+.second-sub-div li{
+    margin-bottom: 2px;
+    font-size: 12px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+.footerWrapper{
+    width: 1300px;
+}
