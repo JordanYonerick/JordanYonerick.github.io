@@ -5,11 +5,11 @@
 }
 
 body{
-    background: #e8ffff;
+    background: #E6EFF6;
 }
 .container{
-    margin-top: 80px;
-    width: 1300px;
+    margin: 150px auto;
+    width: 1440px;
 }
 
 .mainFrame{
@@ -82,7 +82,7 @@ body{
     background: hsl(71, 73%, 54%);
     color: white;
     width: 92%;
-    padding: 12px;
+    padding: 10px;
     text-align: center;
     border-radius: 5px;
 }
@@ -119,6 +119,6 @@ footer{
     margin-top: 20px;
 }
 
-.footerWrapper{
-    width: 1300px;
-}
+/* .footerWrapper{
+    width: 14400px;
+} */
